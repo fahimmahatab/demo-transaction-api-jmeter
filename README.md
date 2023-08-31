@@ -1,7 +1,7 @@
 # Demo-transaction-api-jmeter
 
 ## About this project:
-### D-money is a demo financial related project. where fake money can be transferred. In this project i have automate the D-money api using postman. Here I have covered following task as Login, create User(Agent), User(Customer), Search user, Deposit money System account to Agent account. Deposit money Agent account to Customer account, Checking Customer balance, Withdraw Ammount by the customer from Agent, Customer Payment to Merchant Account. 
+### D-money is a demo financial related project. where fake money can be transferred. In this project i have automate the D-money api using JMeter. Here I have covered following task as Login, create User(Agent) & User(Customer), Search user, Deposit money System account to Agent account. Deposit money Agent account to Customer account, Checking Customer balance, Withdraw Ammount by the customer from Agent, Customer Payment to Merchant Account. 
 
 ## Tools & Technology used:
 - JMeter
