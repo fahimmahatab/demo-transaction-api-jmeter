@@ -11,8 +11,8 @@
 - clone this project
 - Give following instruction:
 - ``` download .jmx file ```
--  ``` open it on JMeter ```
--  ``` click Start Button ```
+- ``` open it on JMeter ```
+- ``` click Start Button ```
 
 ## Test Report
 ![screencapture-file-F-apache-jmeter-5-6-2-bin-Reports-demo-index-html-2023-08-31-21_05_58](https://github.com/fahimmahatab/demo-transaction-api-jmeter/assets/43899673/8b5ca714-3c50-4f1a-a8b2-9c9abf8694b6)
