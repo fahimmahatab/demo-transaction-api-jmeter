@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1693492846698,417,Login,200,OK,Thread Group 1-1,text,true,,592,311,1,1,https://dmoney.roadtocareer.net/user/login,413,0,381
+1693492847161,29,Create Agent,201,Created,Thread Group 1-1,text,true,,602,605,1,1,https://dmoney.roadtocareer.net/user/create,29,0,0
+1693492847192,36,Search User,200,OK,Thread Group 1-1,text,true,,603,437,1,1,https://dmoney.roadtocareer.net/user/search/phonenumber/01653171497,36,0,0
+1693492847229,22,Create Customer,201,Created,Thread Group 1-1,text,true,,612,614,1,1,https://dmoney.roadtocareer.net/user/create,21,0,0
+1693492847251,34,Search User,200,OK,Thread Group 1-1,text,true,,612,437,1,1,https://dmoney.roadtocareer.net/user/search/phonenumber/01753171497,34,0,0
+1693492847286,145,Deposit System to Agent,201,Created,Thread Group 1-1,text,true,,443,528,1,1,https://dmoney.roadtocareer.net/transaction/deposit,145,0,0
+1693492847432,77,Deposit Agent to Customer,201,Created,Thread Group 1-1,text,true,,436,533,1,1,https://dmoney.roadtocareer.net/transaction/deposit,77,0,0
+1693492847511,71,Check balance from Customer Account,200,OK,Thread Group 1-1,text,true,,377,433,1,1,https://dmoney.roadtocareer.net/transaction/balance/01753171497,71,0,0
+1693492847584,78,Withdraw Money by Customer,201,Created,Thread Group 1-1,text,true,,429,533,1,1,https://dmoney.roadtocareer.net/transaction/withdraw,77,0,0
+1693492847664,39,Payment to Merchant,201,Created,Thread Group 1-1,text,true,,428,532,1,1,https://dmoney.roadtocareer.net/transaction/payment,39,0,0
