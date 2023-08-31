@@ -9,8 +9,8 @@
 
 ## How to run this project:
 - clone this project
-- Give following instruction:
-- ``` download .jmx file ```
+- follow this instruction:
+- ```  .jmx file ```
 - ``` open it on JMeter ```
 - ``` click Start Button ```
 
